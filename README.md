@@ -16,5 +16,7 @@ Clone this project, go to the project folder and run the following command
 # Test
 
 `npm run cypress` - It will run Cypress console
+
 or
+
 `npm test` - It will run Cypress on CI / Headless mode
