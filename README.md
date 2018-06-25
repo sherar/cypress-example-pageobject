@@ -5,6 +5,7 @@ This is a POC using Cypresss (https://www.cypress.io/) and a basic Page Object m
 # Pre-Requisites
 
 Install Chrome
+
 Install Node.js (6 or higher)
 
 # Installation
