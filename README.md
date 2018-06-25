@@ -1,6 +1,6 @@
 # Overview
 
-This is a POC using Cypresss (https://www.cypress.io/) and a basic Page Object model using JavaScript 6 (ES6)
+This is a POC using Cypress (https://www.cypress.io/) and a basic Page Object model using JavaScript 6 (ES6)
 
 # Pre-Requisites
 
