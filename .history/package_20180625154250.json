@@ -1,0 +1,15 @@
+{
+    "name": "cypress-test-framework",
+    "version": "1.0.0",
+    "description": "Gerardo's POC",
+    "scripts": {
+        "cypress": "cypress open",
+        "test": "cypress run --config screenshotOnHeadlessFailure=false,videoRecording=false"
+    },
+    "license": "UNLICENSED",
+    "private": true,
+    "devDependencies": {
+        "cypress": "3.0.1"
+    },
+    "dependencies": {}
+}

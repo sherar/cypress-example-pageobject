@@ -1,0 +1,5 @@
+{
+    "baseUrl": "http://google.co.nz",
+    "responseTimeout": 10000,
+
+}
